@@ -25,5 +25,21 @@ This project is intended to elaborate Login, Registration and QR Code generation
 
 Or you may scan code:
 
+<img src="images/QR_YT_video.png" width="100">
 
-<img src="https://github.com/abhishekjjha/QRC_Generator/blob/master/images/QR_YT_video.png" width="100">
+## Installation
+
+```bash
+pip install tk
+pip install qrcode
+pip install Pillow
+pip install PyMsgBox
+pip install python-resize-image
+```
+
+
+
+## Author
+
+- [Abhishek Jha](https://github.com/abhishekjjha)
+
